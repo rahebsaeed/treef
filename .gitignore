@@ -1,7 +1,9 @@
 venv/
 treef.egg-info
+dist/
+build/
 __pycache__
-/my-test-project
+my-test-project
 .pytest_cache
 *.pyc
-
+.env
