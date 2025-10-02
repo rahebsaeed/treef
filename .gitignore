@@ -1,5 +1,7 @@
-venv
+venv/
+treef.egg-info
+__pycache__
 /my-test-project
 .pytest_cache
-__pycache__
 *.pyc
+
