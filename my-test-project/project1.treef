@@ -1,0 +1,15 @@
+├── /src
+│   ├── /api
+│   │   ├── /auth           # Authentication routes, controller, service
+│   │   ├── /middleware     # Authentication middleware
+│   │   └── /users          # Example protected routes
+│   ├── /config             # Environment variable management
+│   ├── /scripts            # CLI tools (e.g., token generator)
+│   ├── /services
+│   │   ├── db.service.js   # Centralized database connection logic
+│   │   └── jwt.service.js  # Centralized JWT logic
+│   ├── app.js              # Express app configuration
+│   └── server.js           # Server startup
+├── /tests
+│   ├── /integration
+│   └── /unit
