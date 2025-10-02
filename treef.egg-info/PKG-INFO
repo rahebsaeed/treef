@@ -1,9 +1,0 @@
-Metadata-Version: 2.4
-Name: treef
-Version: 0.1.0
-Summary: A tool to create project structures from .tree files.
-Requires-Python: >=3.8
-Description-Content-Type: text/markdown
-License-File: LICENSE
-Requires-Dist: click>=8.0
-Dynamic: license-file
