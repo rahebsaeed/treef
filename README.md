@@ -3,7 +3,7 @@
 NOTE:
 - To use the icon, create an `assets` folder in your project root 
   and place your `treef-logo.png` inside it.
-- Replace `YOUR_USERNAME` in the badge URLs below with your actual
+- Replace `rahebsaeed` in the badge URLs below with your actual
   GitHub username.
 ================================================================================
 -->
@@ -18,11 +18,11 @@ NOTE:
     <!-- Python Versions -->
     <a href="https://pypi.org/project/treef/"><img alt="Python Versions" src="https://img.shields.io/pypi/pyversions/treef"></a>
     <!-- License -->
-    <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/YOUR_USERNAME/treef?color=blue"></a>
+    <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/rahebsaeed/treef?color=blue"></a>
     <!-- Build Status -->
     <a href="https://github.com/rahebsaeed/treef/actions"><img alt="Build Status" src="https://img.shields.io/github/actions/workflow/status/rahebsaeed/treef/python-package.yml?branch=main"></a>
     <!-- Test Coverage -->
-    <a href="https://codecov.io/gh/YOUR_USERNAME/treef"><img alt="Test Coverage" src="https://img.shields.io/codecov/c/github/rahebsaeed/treef"></a>
+    <a href="https://codecov.io/gh/rahebsaeed/treef"><img alt="Test Coverage" src="https://img.shields.io/codecov/c/github/rahebsaeed/treef"></a>
   </p>
 </div>
 
@@ -130,7 +130,7 @@ That's it! Your directory will now be populated with the structure you defined.
 Contributions are welcome! If you have a feature request, bug report, or want to improve the code, please feel free to open an issue or submit a pull request.
 
 To set up a development environment:
-1.  Clone the repository: `git clone https://github.com/YOUR_USERNAME/treef.git`
+1.  Clone the repository: `git clone https://github.com/rahebsaeed/treef.git`
 2.  Create and activate a virtual environment.
 3.  Install in editable mode: `pip install -e .`
 4.  Install development dependencies: `pip install -r requirements-dev.txt`
